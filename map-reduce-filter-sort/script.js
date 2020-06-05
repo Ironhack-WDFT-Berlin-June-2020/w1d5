@@ -206,7 +206,7 @@ const placesWithPool = places.filter(function (place) {
 // reverse - reverses an array
 
 const word = 'Pie Pie CarPierot Pie';
-
+// split('') turns a string to an array - join('') turns an array into a string 
 word.split('').reverse().join('');
 
 // sort() sorts the array 'in place' (using no auxiliary data structure) and returns a new array
